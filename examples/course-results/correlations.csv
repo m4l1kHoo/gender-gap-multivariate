@@ -1,0 +1,4 @@
+covariate,transformation,n,pearson_r
+GDPperCapita,log10,144,0.3040210129112979
+HumanCapitalIndex,none,121,0.5995412016259452
+PopulationSexRatio,none,144,-0.22663121730142277

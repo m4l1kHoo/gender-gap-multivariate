@@ -1,0 +1,9 @@
+comparison,metric,value,tolerance,pass
+saved_original,max_abs_eigenvalue_error,4.440892098500626e-16,1e-10,TRUE
+saved_original,max_abs_loading_error_after_sign_alignment,5.551115123125783e-17,1e-10,TRUE
+saved_original,cluster_ARI,1,1,TRUE
+saved_original,max_abs_country_broad_score_error,0,1e-12,TRUE
+recomputed_original,max_abs_eigenvalue_error,4.440892098500626e-16,1e-10,TRUE
+recomputed_original,max_abs_loading_error_after_sign_alignment,5.551115123125783e-17,1e-10,TRUE
+recomputed_original,cluster_ARI,1,1,TRUE
+recomputed_original,max_abs_country_broad_score_error,0,1e-12,TRUE

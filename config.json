@@ -1,0 +1,11 @@
+{
+  "year": 2017,
+  "seed": 2026,
+  "components": 4,
+  "clusters": 4,
+  "candidate_k": [2, 3, 4, 5, 6, 7, 8],
+  "selection_nstart": 100,
+  "main_nstart": 200,
+  "iter_max": 10,
+  "sensitivity_seeds": [11, 29, 47, 83, 131, 257, 509, 1021, 2026, 4093]
+}

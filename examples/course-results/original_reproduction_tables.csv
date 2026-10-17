@@ -1,0 +1,13 @@
+file,same_shape,numeric_max_abs_error,text_columns_identical,method
+broad_summary.csv,TRUE,0,FALSE,Same saved row order; all numeric columns; text checked separately
+cluster_choice.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+cluster_country_examples.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+cluster_summary.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+clustered_countries.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+continent_summary.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+covariate_cor.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+income_summary.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+missing_detail.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+pca_loadings.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+pca_variance.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately
+world_change.csv,TRUE,0,TRUE,Same saved row order; all numeric columns; text checked separately

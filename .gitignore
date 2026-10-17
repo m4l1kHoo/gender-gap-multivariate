@@ -1,0 +1,13 @@
+private_originals/
+.cache/
+results/
+demo/
+data/*.csv
+docs/source_manifest.json
+docs/validation-tests.txt
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+__pycache__/
